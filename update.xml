@@ -1,8 +1,0 @@
-<?xml version="2.2.11" encoding="UTF-8"?>
-<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="ceffophghjpcigbhgngpghjibjdifgba">
-    <updatecheck 
-      codebase="https://raw.githubusercontent.com/RANJITH2209/di/main/extension_windows.crx"
-      version="2.2.11"/>
-  </app>
-</gupdate>
